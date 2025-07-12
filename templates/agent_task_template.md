@@ -2,6 +2,8 @@
 
 Use this template for complex development tasks that benefit from the file-based methodology and persistent context.
 
+> **💡 Formatting Flexibility**: This template provides a comprehensive structure, but you can adapt it to your communication style! The key is ensuring all the important information is included: project context, detailed requirements, constraints, and success criteria. You can explain things conversationally and in your own words - the agent will ask clarifying questions to fill in any gaps and ensure nothing gets misunderstood.
+
 ## Template
 
 ```markdown

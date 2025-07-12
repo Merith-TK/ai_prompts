@@ -2,6 +2,8 @@
 
 Use this template for straightforward requests where you have clear requirements.
 
+> **💡 Formatting Flexibility**: You don't need to follow this exact structured format! The important thing is to include all the relevant information and separate different concepts clearly. You can write conversationally and explain things naturally - just make sure to cover the context, objectives, requirements, and examples. The agent's questions are designed to clarify details and prevent misunderstandings, so be thorough in your explanations.
+
 ## Template
 
 ```markdown
